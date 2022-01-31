@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 
 class PdflistingController extends Controller
 {
-    public function index()
+    public function pdflisting()
     {
         return view('pdflisting');
     }

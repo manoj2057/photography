@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 
 class MemberlistingController extends Controller
 {
-    public function index()
+    public function memberlisting()
     {
         return view('memberlisting');
     }

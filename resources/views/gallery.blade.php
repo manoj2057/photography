@@ -12,7 +12,7 @@
         <div class="col-12 col-sm-12">
           <h1>Our Gallery</h1>
           <ul class="breadcrumb">
-            <li><a href="index.html">Home</a></li>
+            <li><a href="home">Home</a></li>
             <li>Our Gallery</li>
           </ul>
         </div>
